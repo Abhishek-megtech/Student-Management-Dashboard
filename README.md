@@ -58,9 +58,32 @@ Immediately displayed on the dashboard
 
 ### 🧩 Tech Stack
 
+#### Frontend
 
-Component	        Technology
-Frontend	        JavaFX (FXML)
-Backend	          Java (OOP + JDBC)
-Database	        MySQL
-Build Tool	      Maven/IDE-based workflow
+JavaFX
+
+FXML
+
+Scene Builder
+
+#### Backend
+
+Java (OOP)
+
+JDBC (Java Database Connectivity)
+
+#### Database
+
+MySQL
+
+#### Tools & IDE
+
+IntelliJ IDEA / Eclipse
+
+Scene Builder
+
+MySQL Workbench
+
+#### Build System
+
+Maven / Gradle (optional)

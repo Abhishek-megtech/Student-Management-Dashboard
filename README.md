@@ -60,30 +60,30 @@ Immediately displayed on the dashboard
 
 ### Frontend:
 
-JavaFX
+-JavaFX
 
-FXML
+-FXML
 
-Scene Builder
+-Scene Builder
 
 ### Backend :
 
-Java (OOP)
+-Java (OOP)
 
-JDBC (Java Database Connectivity)
+-JDBC (Java Database Connectivity)
 
 ### Database :
 
-MySQL
+-MySQL
 
 ### Tools & IDE :
 
-IntelliJ IDEA / Eclipse
+-IntelliJ IDEA / Eclipse
 
-Scene Builder
+-Scene Builder
 
-MySQL Workbench
+-MySQL Workbench
 
 ### Build System :
 
-Maven / Gradle (optional)
+-Maven / Gradle (optional)

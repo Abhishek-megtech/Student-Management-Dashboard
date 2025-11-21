@@ -1,0 +1,7 @@
+{
+  "java.project.referencedLibraries": [
+    "mysql-connector-j-9.5.0.jar",
+    "C:\\Users\\shere\\OneDrive\\Desktop\\javafx-sdk-21.0.9\\lib\\*.jar"
+  ]
+}
+

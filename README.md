@@ -5,10 +5,11 @@ Student Management Dashboard is a desktop application built using JavaFX for the
 This system updates student data in real-time, validates input fields before submission, and organizes information in a structured table format for easy review.
 
 
+
 ## ✨ Features
 
 
-✔️ Student Data Display
+✅ Student Data Display
 
 Displays student details in a table view, including:
 
@@ -20,12 +21,12 @@ Course
 
 Date & Time of Entry
 
-✔️ Add New Students
+✅ Add New Students
 
 A simple form allows users to insert new student information.
 The system automatically stores the current date and time.
 
-✔️ MySQL Database Integration
+✅ MySQL Database Integration
 
 A dedicated DataStore class manages:
 
@@ -35,13 +36,14 @@ Fetching existing data
 
 Real-time updating of the table view
 
-✔️ Input Validation
+✅ Input Validation
 
 Prevents addition if any field is empty and notifies the user via alert popups.
 
-✔️ Real-Time Updates
+✅ Real-Time Updates
 
 Once a student is added, the table refreshes instantly without restarting the application.
+
 
 
 ## 🛠️ How It Works
@@ -57,6 +59,7 @@ Valid data is:
 Stored in the MySQL database
 
 Immediately displayed on the dashboard
+
 
 
 ## 🧩 Tech Stack

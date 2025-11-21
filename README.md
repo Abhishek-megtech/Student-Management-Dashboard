@@ -4,6 +4,7 @@ Student Management Dashboard is a desktop application built using JavaFX for the
 
 This system updates student data in real-time, validates input fields before submission, and organizes information in a structured table format for easy review.
 
+
 ## ✨ Features
 
 
@@ -42,6 +43,7 @@ Prevents addition if any field is empty and notifies the user via alert popups.
 
 Once a student is added, the table refreshes instantly without restarting the application.
 
+
 ## 🛠️ How It Works
 
 The application loads the FXML Dashboard UI at startup.
@@ -55,6 +57,7 @@ Valid data is:
 Stored in the MySQL database
 
 Immediately displayed on the dashboard
+
 
 ## 🧩 Tech Stack
 

@@ -11,6 +11,7 @@ This system updates student data in real-time, validates input fields before sub
 
 ✅ Student Data Display
 
+
 Displays student details in a table view, including:
 
 Name
@@ -21,12 +22,16 @@ Course
 
 Date & Time of Entry
 
+
 ✅ Add New Students
+
 
 A simple form allows users to insert new student information.
 The system automatically stores the current date and time.
 
+
 ✅ MySQL Database Integration
+
 
 A dedicated DataStore class manages:
 
@@ -36,9 +41,12 @@ Fetching existing data
 
 Real-time updating of the table view
 
+
 ✅ Input Validation
 
+
 Prevents addition if any field is empty and notifies the user via alert popups.
+
 
 ✅ Real-Time Updates
 
